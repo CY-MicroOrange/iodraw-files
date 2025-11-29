@@ -16,8 +16,8 @@
         <mxCell id="FXTuOFouFYoZkNlO0uOb-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;智能体团队&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="333" y="257" width="88" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FXTuOFouFYoZkNlO0uOb-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;智能体团队&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="343" y="267" width="88" height="35" as="geometry" />
+        <mxCell id="FXTuOFouFYoZkNlO0uOb-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;智能体&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="483" y="257" width="88" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
