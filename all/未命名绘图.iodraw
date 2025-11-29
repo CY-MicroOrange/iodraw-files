@@ -34,10 +34,16 @@
         <mxCell id="FXTuOFouFYoZkNlO0uOb-13" value="评估" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="88.25" y="349.5" width="53.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="FXTuOFouFYoZkNlO0uOb-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FXTuOFouFYoZkNlO0uOb-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FXTuOFouFYoZkNlO0uOb-13" target="FXTuOFouFYoZkNlO0uOb-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="356" as="sourcePoint" />
             <mxPoint x="480" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXTuOFouFYoZkNlO0uOb-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FXTuOFouFYoZkNlO0uOb-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="359" as="sourcePoint" />
+            <mxPoint x="125" y="334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
