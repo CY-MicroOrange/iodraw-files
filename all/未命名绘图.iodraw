@@ -352,6 +352,9 @@
         <mxCell id="FXTuOFouFYoZkNlO0uOb-109" value="会话内容" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="232" width="70" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="FXTuOFouFYoZkNlO0uOb-110" value="发言时间" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="804" y="288.5" width="70" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
