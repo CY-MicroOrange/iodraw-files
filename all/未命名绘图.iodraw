@@ -11,7 +11,7 @@
           <mxGeometry x="418" y="413" width="88" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FXTuOFouFYoZkNlO0uOb-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;会话情境&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="639" y="352" width="88" height="35" as="geometry" />
+          <mxGeometry x="580" y="411" width="88" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FXTuOFouFYoZkNlO0uOb-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;智能体团队&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="418" y="196" width="88" height="35" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="242" y="289" width="88" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FXTuOFouFYoZkNlO0uOb-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;评估报告&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="236" y="418" width="88" height="35" as="geometry" />
+          <mxGeometry x="242" y="413" width="88" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FXTuOFouFYoZkNlO0uOb-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;教师&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="71" y="289" width="88" height="35" as="geometry" />
