@@ -232,7 +232,7 @@
             <mxPoint x="714.41" y="413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE47FD5XYuBg0lZcxAWU-18" value="State&lt;div&gt;Synchronization&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="OE47FD5XYuBg0lZcxAWU-18" value="状态同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="54.75" y="426" width="112.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OE47FD5XYuBg0lZcxAWU-19" value="记忆更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="OE47FD5XYuBg0lZcxAWU-23" value="Capability Attribution Judgement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="543.5" y="426" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rt-8g7-Tt63_4QJsV6Ij-1" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="353" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
