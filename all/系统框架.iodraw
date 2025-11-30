@@ -238,8 +238,8 @@
         <mxCell id="OE47FD5XYuBg0lZcxAWU-19" value="记忆更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="199" y="426" width="112.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OE47FD5XYuBg0lZcxAWU-21" value="Process&lt;div&gt;Advancement&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="377" y="426" width="112.75" height="30" as="geometry" />
+        <mxCell id="OE47FD5XYuBg0lZcxAWU-21" value="进程推进" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="362.75" y="426" width="112.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OE47FD5XYuBg0lZcxAWU-22" value="Task Message Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="709" y="426" width="112.75" height="30" as="geometry" />
