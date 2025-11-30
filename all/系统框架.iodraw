@@ -196,11 +196,11 @@
             <mxPoint x="224.90999999999997" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE47FD5XYuBg0lZcxAWU-11" value="Persistent Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="OE47FD5XYuBg0lZcxAWU-11" value="持久化存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="213" y="583" width="112.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OE47FD5XYuBg0lZcxAWU-12" value="Data&lt;div&gt;Feedbcak&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="558" y="583" width="60" height="30" as="geometry" />
+        <mxCell id="OE47FD5XYuBg0lZcxAWU-12" value="数据反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="558" y="583" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OE47FD5XYuBg0lZcxAWU-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
