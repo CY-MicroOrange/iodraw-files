@@ -247,6 +247,9 @@
         <mxCell id="OE47FD5XYuBg0lZcxAWU-23" value="能力评定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="508.5" y="426" width="158" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Rt-8g7-Tt63_4QJsV6Ij-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="316.5" width="56.5" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
