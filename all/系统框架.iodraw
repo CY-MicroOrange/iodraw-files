@@ -181,7 +181,7 @@
         <mxCell id="OE47FD5XYuBg0lZcxAWU-6" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;实测的CPS能力&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="485" y="658" width="128" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="OE47FD5XYuBg0lZcxAWU-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Contextualization&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OE47FD5XYuBg0lZcxAWU-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;任务情境&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="647.75" y="658" width="128" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OE47FD5XYuBg0lZcxAWU-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
