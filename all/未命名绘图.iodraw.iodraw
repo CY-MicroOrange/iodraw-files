@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1bxvPam0qZ7S6fKg0ssV-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;输入列表a&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="191" width="120" height="29" as="geometry" />
+          <mxGeometry x="241" y="137" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="1bxvPam0qZ7S6fKg0ssV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="246" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
