@@ -29,7 +29,10 @@
           <mxGeometry x="248" y="252" width="106" height="54" as="geometry" />
         </mxCell>
         <mxCell id="1bxvPam0qZ7S6fKg0ssV-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;a[i] &amp;lt; a[i+1]?&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="332" width="106" height="54" as="geometry" />
+          <mxGeometry x="248" y="331" width="106" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1bxvPam0qZ7S6fKg0ssV-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;a[i] &amp;lt; a[i+1]?&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="341" width="106" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
